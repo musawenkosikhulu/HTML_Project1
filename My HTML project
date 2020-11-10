@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>My first website</title>
+    </head>
+    <body background ="Musito1.jpg">
+        <h3 align = "center">
+            <font face="Lato" size="6">Musito Agency</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <font face="cinzel" size="4">
+                <a href="">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="">Jobs</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="">Blogs</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.facebook.com/musitoagency">Contact US</a>
+            </font>
+        </h3>
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <h1 align="center">
+            <font face="Lato" color="#454545" size="7">
+                Social Media Marketing
+            </font>
+
+        </h3>
+        <br /><br /><br /><br /><br /><br /><br /><br />
+        <h3 align="center">
+            <a href="#">Book Us</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.facebook.com/musitoagency">Subcribe</a>
+
+        </h3>
+
+    </body>
+</html>
